@@ -5,6 +5,12 @@
 
 `lerobot/src/lerobot/teleoperators` 폴더에 `bi_so101_leader` 폴더를 넣어주세요.
 
+그리고 다시 설치를 진행합니다.
+
+```
+pip install -e .
+```
+
 # 텔레오퍼레이션 실행 
 
 ## 1. 카메라 없이
