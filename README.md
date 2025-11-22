@@ -1,4 +1,6 @@
 
+https://www.notion.so/Physical-AI-294938610919803d8e36f11d15433898
+
 # 준비
 
 `lerobot/src/lerobot/robots` 폴더에 `bi_so101_follower` 폴더를 넣어주세요.
